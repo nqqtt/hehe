@@ -1,0 +1,101 @@
+body {
+    background-color: #ff99cc; 
+    font-family: Arial, sans-serif;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+header {
+    background-color: #800936; /* Pink header background color */
+    color: #fff; /* White text color */
+    padding: 10px; /* Padding to provide space around the content */
+    text-align: center;
+    margin: 0px;
+    top: 0px;
+    font-size: 24px; /* Increase the font size for the header text */
+    font-weight: bold; /* Make the header text bold */
+}
+
+h1 {
+    margin: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+h2 {
+    margin: 10;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#cf3783
+}
+
+
+h3 {
+    margin: 10;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#a558ec
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff; /* White content background color */
+    border-radius: 10px;
+    position: relative;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+nav {
+    background-color: #e44494; /* Pink navigation background color */
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff; 
+    font-weight: bold;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #ff99cc; 
+}
+
+
+footer {
+  
+    bottom: 0;
+    width: 100%;
+    background-color: #ff3399;
+    color: #fff;
+    text-align: center;
+    padding: 10px; /* Add padding for spacing. */
+}
+
+
+.lol {
+  
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    background-color: #ff3399;
+    color: #fff;
+    text-align: center;
+    padding: 10px; /* Add padding for spacing. */
+}
